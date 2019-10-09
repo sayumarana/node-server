@@ -8,4 +8,3 @@ Create a JSON file that will have 10 employees in it, their employeeID, their na
     Add the remaining CRUD functionality to your medium problem.
     Make sure you return the proper HTTP status codes based on the outcome of the request. Be sure to implement error checking here.
     If an invalid request is made, we want to return some sort of error message and the correct HTTP status code for the situation.
-    HTTP Status Codes: http://www.restapitutorial.com/httpstatuscodes.html
