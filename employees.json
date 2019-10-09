@@ -1,0 +1,73 @@
+{
+
+"employees": [
+    {
+        "employeeID": 1,
+        "name": "Abraham Grey",
+        "salary": "$65,000",
+        "department": "Security"
+    },
+
+    {
+        "employeeID": 2,
+        "name": "Caleb White",
+        "salary": "$55,000",
+        "department": "Human Resources"
+    },
+
+    {
+        "employeeID": 3,
+        "name": "Wolf Hayes",
+        "salary": "$70,000",
+        "department": "Production"
+    },
+
+    {
+        "employeeID": 4,
+        "name": "Charlotte Skies",
+        "salary": "$65,000",
+        "department": "Distribution"
+    },
+    
+    {
+        "employeeID": 5,
+        "name": "Abel Perez",
+        "salary": "$45,000",
+        "department": "Security"
+    },
+    
+    {
+        "employeeID": 6,
+        "name": "Treena Harris",
+        "salary": "$50,000",
+        "department": "Production"
+    },
+
+    {
+        "employeeID": 7,
+        "name": "Rose Henry",
+        "salary": "$45,000",
+        "department": "Distribution"
+    },
+
+    {
+        "employeeID": 8,
+        "name": "Lyn Michaels",
+        "salary": "$60,000",
+        "department": "Human Resources"
+    },
+
+    {
+        "employeeID": 9,
+        "name": "Olivia Farrin",
+        "salary": "$62,000",
+        "department": "Production"
+    },
+
+    {
+        "employeeID": 10,
+        "name": "Julia Monsalve",
+        "salary": "$68,000",
+        "department": "Security"
+    }
+]}
